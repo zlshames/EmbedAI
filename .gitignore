@@ -1,2 +1,8 @@
 .vs
 .vscode
+models/*
+!models/.gitkeep
+source_documents/*
+!source_documents/.gitkeep
+db/*
+!db/.gitkeep
