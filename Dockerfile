@@ -2,6 +2,6 @@ FROM python:3.11 as base
 
 WORKDIR /app
 COPY ./ ./
-RUN pip install -r ./src/requirements.txt
+RUN pip install ./
 
-CMD ["python", "./src/privateGPT.py"]
+CMD ["embed-ai"]
