@@ -1,4 +1,4 @@
-# PrivateGPT
+# PrivateGPT (EmbedAI)
 
 Create a QnA chatbot on your documents without relying on the internet by utilizing the capabilities of local LLMs. Ensure complete privacy and security as none of your data ever leaves your local execution environment. Seamlessly process and inquire about your documents even without an internet connection. Inspired from [imartinez](https://github.com/imartinez)
 
